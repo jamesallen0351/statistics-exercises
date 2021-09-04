@@ -13,5 +13,4 @@
     - Chi Squared
 
 
-## "There are three types of lies - lies, damn lies, and statistics"
-- Benjamin Disraeli
+## "There are three types of lies - lies, damn lies, and statistics" - Benjamin Disraeli
